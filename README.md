@@ -67,4 +67,4 @@ Employee_Management_Project /
 
 This project was developed by **[Ahmed Hafez Said ]** as part of the **AI Diploma** requirements, a collaboration between **AItronix** and **Eduzah**.
 
-For any inquiries, please contact me via [My LinkedIn Profile](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit).
+For any inquiries, please contact me via [My LinkedIn Profile](https://www.linkedin.com/in/ahmed-hafez-31ab9b293/).
